@@ -1,12 +1,12 @@
 description
 =
-command prompt's prompt displaying:
+[cmd.exe](http://en.wikipedia.org/wiki/Cmd.exe)'s prompt displaying:
 * date
 * time
 * hostname
 * username
-* current
-* directory
+* sharename
+* current directory
 * the directory stack's depth
 
 respectively, in a colorful format, in a line,
