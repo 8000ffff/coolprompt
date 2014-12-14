@@ -13,4 +13,4 @@ respectively, in a colorful format, in a line, and then adding a new line with t
 
 instructions
 =
-install ansicon.exe to enable ansi colors on console by issuing `autorun.exe -i` command, and then run `coolprompt.bat` script file to set the prompt string for `cmd.exe` as described above. to change the prompt back for the session issue `prompt` command, to change it back for permanently (for the process) issue `setx prompt $p$g`
+install `ansicon.exe` to enable ansi colors on console by issuing `autorun.exe -i` command, and then run `coolprompt.bat` script file to set the prompt string for `cmd.exe` as described above. to change the prompt back for the session issue `prompt` command, to change it back for permanently (for the process) issue `setx prompt $p$g`
